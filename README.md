@@ -1,4 +1,4 @@
-# ShopSphere 🛍️
+# Doo-Kaan 🛍️
 ### Everything You Need in One Place
 
 A full-stack eCommerce web application built as a BSc CSIT Final Year College Project, demonstrating
